@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub
+ctransformers
+rouge-score
+scikit-learn
+bert-score
+asyncio
+numpy
+pandas
+PyMuPDF
