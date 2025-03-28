@@ -4,12 +4,17 @@
 This project implements a **Retrieval-Augmented Generation (RAG) pipeline** for a **Medical Chatbot** using **FAISS** for vector search and **CTransformers** for language modeling. The chatbot retrieves information from a set of medical PDFs stored in a vector database and provides relevant answers to user queries.
 
 ## 🚀 Features
+
 - **FAISS Vector Database**: Efficient similarity search on medical documents.
 - **RAG Pipeline**: Enhances chatbot responses with document retrieval.
 - **CTransformers LLM**: Uses Llama-2-7B-Chat-GGML model for generating responses.
 - **Streamlit UI**: User-friendly web interface for interacting with the chatbot.
 - **Chat History**: Logs user queries and responses in JSON format.
 - **Evaluation Pipeline**: Uses ROUGE, BERTScore, and Semantic Similarity for performance assessment.
+
+##  Results
+![Screenshot from 2025-03-28 14-38-24](https://github.com/user-attachments/assets/322dfa73-1fa8-4749-8daf-c6c67970c84e)
+
 
 ## 🏗️ Project Structure
 ```
